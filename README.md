@@ -1,6 +1,6 @@
 # Port Scanner
 
-This is designed for scanniing the open and close ports of the system.
+This is designed for scanning the open and close ports of the system.
 It has three scans SYN, UDP, COMPREHENSIVE scan.
 <hr>
 
